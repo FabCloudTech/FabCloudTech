@@ -3,7 +3,7 @@
 
 ☁️Cloud Enthusiast| Future Cloud & Security Engineer<br/>
 🎨Creative Techie| Lifelong Learner<br/>
-🧠Currently studying AWS Cloud Practitioner and building hands-on projects(EC2,S3,IAM etc.)<br/>
+🧠Currently studying AWS Cloud Practitioner and building hands-on projects (EC2,S3,IAM etc.)<br/>
 I'm on a journey pivoting to cloud computing and security with a backbround in family and community work</br>
 
 
