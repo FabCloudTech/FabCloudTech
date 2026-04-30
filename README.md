@@ -3,7 +3,7 @@
 
 ☁️Cloud Enthusiast| Future Cloud & IAM Analyst/GRC Analyst<br/>
 🎨Creative Techie| Lifelong Learner<br/>
-🧠Currently building hands-on projects (EC2,S3,IAM etc.)<br/>
+🧠Currently building hands-on projects<br/>
 I'm on a journey pivoting to IAM Governance with a backbround in regulated environment</br>
 
 
