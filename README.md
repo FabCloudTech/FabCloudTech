@@ -1,10 +1,10 @@
 ## Hi, I'm Fabella ✨
 
 
-☁️Cloud Enthusiast| Future Cloud & IAM Analyst/GRC Analyst<br/>
+☁️Cloud Enthusiast| Future Cloud & IAM Analyst<br/>
 🎨Creative Techie| Lifelong Learner<br/>
 🧠Currently building hands-on projects<br/>
-I'm on a journey pivoting to IAM Governance with a backbround in regulated environment</br>
+I'm on a journey pivoting to IAM with a background in regulated environments</br>
 
 
 
