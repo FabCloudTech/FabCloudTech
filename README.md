@@ -9,7 +9,7 @@
 
 <img src="h-about.svg" alt="about" width="100%">
 
-hi, i'm fab. 13 years protecting sensitive data in regulated social services, now building identity controls. i like work that actually runs.
+Hi, I'm Fabella. 13 years protecting sensitive data in regulated social services, now building identity controls. I like work that actually runs.
 
 <img src="divider.svg" alt="" width="100%">
 
